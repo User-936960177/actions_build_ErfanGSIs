@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://pan.banli99.top/api/v3/file/source/3708/POT-AL10A%209.1.0.239%28C00E229R3P1%29_Firmware_9.0.0_r3_EMUI9.1.0_05015PMU.zip?sign=F3-gQpmf4raF9PLt-crqcesTgwUWIz0IgVM7kTuGZa8%3D%3A0
-  ROM_NAME: EMUI
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
